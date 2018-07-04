@@ -1,0 +1,28 @@
+{
+    "Animals": [
+        {
+            "type": "Dog",
+            "avail": true,
+            "name": "Hailey",
+            "id": 1
+        },
+        {
+            "type": "Cat",
+            "avail": true,
+            "name": "Allie",
+            "id": 2
+        },
+        {
+            "type": "Dog",
+            "avail": false,
+            "name": "Spot",
+            "id": 3
+        },
+        {
+            "type": "Cat",
+            "avail": false,
+            "name": "Tiger",
+            "id": 4
+        }
+    ]
+}
